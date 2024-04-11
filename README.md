@@ -2,6 +2,7 @@
 Base code for Car Inventory App that is work in progress.
 
 PROJECT NAME: Car Inventory v1.0
+
 DESCRIPTION: An application that is used by car sellers to keep track of cars in their inventory as well as provide them with information about the cars. 
 
 BUILT WITH: React using Vite, Tailwind CSS, MongoDB, Firebase, NodeJS with Express
